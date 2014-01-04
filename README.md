@@ -1,16 +1,14 @@
-Mitra SMS
-============
+== Mitra SMS
 
 Application forked from Kalkun 
 PHP/MySQL Codeigniter
 
-Requierments
-============
+== Requierments
 * Gammu
 * Gammu SMSD
 
-Installation
-============
+== Installation
 * Create database and dump from media/db/mitraDB.sql
 * Config database on application/config/database.php
 * Config App name on application/config/site.php
+* Default admin account, username: admin - password: defaultpassword
