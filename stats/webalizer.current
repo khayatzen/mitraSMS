@@ -1,0 +1,974 @@
+# Webalizer V2.01-10 Incremental Data - 10/27/2011 04:00:54
+2011 10 27 4 0 54
+33502 30193 119 102 75 70 19954096 28208 185 0 0 0
+1 1 2733 16 27
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+16581 14551 12178760 48 13505 85 0 0
+3343 3070 2236785 15 2806 19 0 0
+6354 6199 937658 35 6099 37 0 0
+4596 4100 3330311 21 3618 19 0 0
+177 152 104271 11 134 11 0 0
+2437 2108 1143223 5 2037 6 0 0
+2 2 1302 2 1 1 0 0
+5 5 13514 5 4 4 0 0
+1 1 54 1 0 0 0 0
+3 2 4745 3 3 3 0 0
+2 2 3419 2 1 1 0 0
+1 1 54 1 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+443 422 37414 421 0 0
+161 161 5957 161 0 0
+125 104 48219 95 0 0
+337 333 24686 335 0 0
+329 328 12687 328 0 0
+435 412 35195 414 0 0
+708 618 1415030 542 0 0
+1286 1218 231174 1211 0 0
+2351 2122 275092 2109 0 0
+2753 2288 1718499 2119 0 0
+1368 1190 1104860 1072 0 0
+2550 2175 1585056 1987 0 0
+3066 2811 942120 2719 0 0
+4663 4005 3054886 3669 0 0
+5709 4965 7914595 4148 0 0
+2310 2224 374736 2207 0 0
+1056 1029 58944 1036 0 0
+838 811 57789 817 0 0
+454 453 17120 453 0 0
+568 563 198002 527 0 0
+671 670 429424 602 0 0
+634 604 296584 571 0 0
+333 333 37251 331 0 0
+354 354 78776 334 0 0
+0
+0
+0
+30193
+0
+0
+0
+0
+0
+8
+0
+0
+229
+0
+2738
+0
+0
+0
+0
+0
+79
+89
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+166
+0
+0
+0
+0
+0
+# -urls- 
+/media/js/jquery-1.3.2.min.js
+0 49 0 414540 0 0 0 0
+/media/js/swfobject.js
+0 32 0 77360 0 0 0 0
+/media/images/logo.png
+1 49 0 101320 0 0 0 0
+/media/css/front/global.css
+0 173 0 119555 0 0 0 0
+/
+0 27662 0 6745547 182 57 0 0
+/media/js/jquery-ui/effects.core.min.js
+0 50 0 69660 0 0 0 0
+/media/js/tiny_mce/plugins/media/editor_plugin.js
+0 6 0 23445 0 0 0 0
+/media/js/tiny_mce/plugins/advhr/editor_plugin.js
+0 6 0 2305 0 0 0 0
+/media/js/jquery-plugin/jquery.field.min.js
+0 50 0 47660 0 0 0 0
+/media/images/report-icon.png
+1 159 0 84332 0 0 0 0
+/media/js/tiny_mce/plugins/preview/editor_plugin.js
+0 6 0 2685 0 0 0 0
+/media/js/front/jquery.easing.1.3.js
+0 179 0 135048 0 0 0 0
+/media/js/tiny_mce/plugins/print/editor_plugin.js
+0 6 0 1435 0 0 0 0
+/media/css/ie-fix.css
+0 1 0 224 0 0 0 0
+/media/js/jquery-plugin/jquery.autocomplete.min.js
+0 76 0 354616 0 0 0 0
+/media/images/arrow_right.gif
+1 14 0 760 0 0 0 0
+/media/js/tiny_mce/plugins/inlinepopups/skins/clearlooks2/window.css
+0 5 0 5692 0 0 0 0
+/media/js/tiny_mce/plugins/advimage/editor_plugin.js
+0 6 0 2205 0 0 0 0
+/media/css/jquery-ui/images/ui-bg_flat_75_ffffff_40x100.png
+1 26 0 3204 0 0 0 0
+/media/images/facebook.png
+1 158 0 202293 0 0 0 0
+/media/css/front/blogpost.css
+0 140 0 9456 0 0 0 0
+/media/js/jquery-ui/ui.dialog.min.js
+0 50 0 64180 0 0 0 0
+/media/js/tiny_mce/themes/advanced/img/icons.gif
+1 5 0 47160 0 0 0 0
+/media/js/jquery-plugin/jquery.tokeninput.min.js
+0 36 0 80640 0 0 0 0
+/media/js/tiny_mce/themes/advanced/skins/default/content.css
+0 5 0 3964 0 0 0 0
+/media/css/jquery-ui/images/ui-icons_454545_256x240.png
+1 10 0 39321 0 0 0 0
+/media/css/jquery-ui/images/ui-bg_glass_75_dadada_1x400.png
+1 22 0 1887 0 0 0 0
+/media/js/tiny_mce/plugins/directionality/editor_plugin.js
+0 6 0 2645 0 0 0 0
+/media/images/logo-kemitraan.jpg
+1 154 0 268510 0 0 0 0
+/media/css/jquery-ui/images/ui-icons_222222_256x240.png
+1 26 0 78642 0 0 0 0
+/media/images/twitter.png
+1 157 0 215152 0 0 0 0
+/media/js/front/jquery.mousewheel.min.js
+0 181 0 41124 0 0 0 0
+/media/js/tiny_mce/themes/advanced/skins/default/ui.css
+0 5 0 11788 0 0 0 0
+/media/js/tiny_mce/plugins/layer/editor_plugin.js
+0 6 0 7555 0 0 0 0
+/media/js/tiny_mce/tiny_mce.js
+0 9 0 524608 0 0 0 0
+/media/swf/open-flash-chart.swf
+0 31 0 4811279 0 0 0 0
+/media/css/front/auth.css
+0 56 0 21244 0 0 0 0
+/media/css/base.css
+0 51 0 89134 0 0 0 0
+/media/js/tiny_mce/plugins/fullscreen/editor_plugin.js
+0 6 0 6545 0 0 0 0
+/media/images/bg-button.gif
+1 50 0 8200 0 0 0 0
+/media/css/jquery-plugin/jquery.autocomplete.css
+0 9 0 3915 0 0 0 0
+/media/css/jquery-plugin/jquery.tagsinput.css
+0 9 0 3132 0 0 0 0
+/media/js/tiny_mce/plugins/searchreplace/editor_plugin.js
+0 6 0 2445 0 0 0 0
+/media/css/jquery-plugin/token-input-facebook.css
+0 14 0 7368 0 0 0 0
+/media/images/calendar.gif
+1 14 0 3228 0 0 0 0
+/media/css/jquery-ui/images/ui-bg_glass_65_ffffff_1x400.png
+1 1 0 105 0 0 0 0
+/media/js/tiny_mce/plugins/insertdatetime/editor_plugin.js
+0 6 0 3475 0 0 0 0
+/media/avatar/burung.jpg
+1 2 0 29154 0 0 0 0
+/media/js/jquery-plugin/jquery.validate.phone.js
+0 76 0 57152 0 0 0 0
+/media/js/tiny_mce/plugins/advlink/editor_plugin.js
+0 6 0 2660 0 0 0 0
+/robots.txt
+0 30 0 1400 0 0 0 0
+/media/js/tiny_mce/plugins/nonbreaking/editor_plugin.js
+0 5 0 1920 0 0 0 0
+/media/images/mascot.png
+1 50 0 692840 0 0 0 0
+/media/css/content.css
+0 5 0 2004 0 0 0 0
+/media/js/tiny_mce/plugins/emotions/editor_plugin.js
+0 6 0 1875 0 0 0 0
+/media/css/front/layout.css
+0 176 0 94324 0 0 0 0
+/favicon.ico
+0 80 0 73112 0 0 0 0
+/media/images/rss.png
+1 158 0 211185 0 0 0 0
+/media/js/front/jquery-1.3.2.min.js
+0 177 0 1342320 0 0 0 0
+/media/js/tiny_mce/plugins/contextmenu/editor_plugin.js
+0 6 0 5365 0 0 0 0
+/media/js/jquery-plugin/jquery.validate.min.js
+0 126 0 751284 0 0 0 0
+/media/js/tiny_mce/plugins/inlinepopups/editor_plugin.js
+0 6 0 20210 0 0 0 0
+/media/css/front/jquery.mCustomScrollbar.css
+0 174 0 57909 0 0 0 0
+/media/css/front/images/ajax-loader.gif
+1 145 0 174840 0 0 0 0
+/media/css/jquery-ui/ui.all.css
+0 50 0 1420 0 0 0 0
+/media/js/tiny_mce/langs/en.js
+0 6 0 13215 0 0 0 0
+/media/js/tiny_mce/themes/advanced/editor_template.js
+0 6 0 40875 0 0 0 0
+/media/js/tiny_mce/plugins/pagebreak/editor_plugin.js
+0 6 0 3400 0 0 0 0
+/media/css/jquery-ui/ui.dialog.css
+0 50 0 8840 0 0 0 0
+/media/css/front/images/tab-line.png
+1 145 0 24111 0 0 0 0
+/media/css/jquery-ui/images/ui-bg_flat_0_aaaaaa_40x100.png
+1 22 0 3060 0 0 0 0
+/media/js/address.map.js
+0 76 0 114380 0 0 0 0
+/media/js/tiny_mce/themes/advanced/langs/en.js
+0 5 0 4224 0 0 0 0
+/media/js/tiny_mce/plugins/paste/editor_plugin.js
+0 6 0 25585 0 0 0 0
+/media/js/jquery-ui/ui.draggable.min.js
+0 50 0 88540 0 0 0 0
+/media/js/tiny_mce/plugins/table/editor_plugin.js
+0 6 0 28425 0 0 0 0
+/media/css/front/microblog.widget.css
+0 155 0 17132 0 0 0 0
+/media/css/jquery-ui/ui.core.css
+0 50 0 12480 0 0 0 0
+/media/js/jquery-plugin/jquery.autogrow-textarea.min.js
+0 50 0 7240 0 0 0 0
+/media/js/tiny_mce/plugins/style/editor_plugin.js
+0 6 0 2490 0 0 0 0
+/media/js/tiny_mce/plugins/noneditable/editor_plugin.js
+0 5 0 2552 0 0 0 0
+/media/images/background.jpg
+1 50 0 13580 0 0 0 0
+/media/js/tiny_mce/plugins/xhtmlxtras/editor_plugin.js
+0 5 0 3088 0 0 0 0
+/media/images/logo-infest.jpg
+1 157 0 96280 0 0 0 0
+/media/js/jquery-ui/ui.core.min.js
+0 50 0 57820 0 0 0 0
+/media/js/jquery-ui/effects.fade.min.js
+0 50 0 3440 0 0 0 0
+/media/css/jquery-ui/ui.theme.css
+0 50 0 56620 0 0 0 0
+/media/css/front/menu.css
+0 174 0 64819 0 0 0 0
+/media/css/front/map.css
+0 175 0 52807 0 0 0 0
+/media/css/jquery-plugin/jquerycssmenu.css
+0 34 0 13490 0 0 0 0
+/media/js/tiny_mce/plugins/iespell/editor_plugin.js
+0 6 0 2555 0 0 0 0
+/media/images/circle.gif
+1 29 0 1513 0 0 0 0
+/media/js/tiny_mce/plugins/visualchars/editor_plugin.js
+0 5 0 2964 0 0 0 0
+/media/js/tiny_mce/plugins/template/editor_plugin.js
+0 5 0 4900 0 0 0 0
+/media/js/jquery-ui/ui.datepicker.min.js
+0 36 0 397368 0 0 0 0
+/media/css/jquery-ui/ui.datepicker.css
+0 50 0 19300 0 0 0 0
+/media/js/jquery-plugin/jquery.tagsinput.js
+0 76 0 142880 0 0 0 0
+/media/css/jquery-ui/images/ui-bg_glass_75_e6e6e6_1x400.png
+1 21 0 1760 0 0 0 0
+/media/css/blue.css
+0 51 0 12870 0 0 0 0
+/media/js/tiny_mce/plugins/save/editor_plugin.js
+0 6 0 3505 0 0 0 0
+/media/images/arrow_left.gif
+1 29 0 1746 0 0 0 0
+/media/js/front/jquery.mCustomScrollbar.js
+0 180 0 150212 0 0 0 0
+# End Of Table - urls
+# -sites- (monthly)
+107.20.90.45
+0 1 1 3365 1 1318969319
+- 0 0
+69.171.224.246
+0 1 1 3549 0 0
+- 0 0
+199.59.149.10
+0 2 2 0 1 1318966236
+- 0 0
+50.16.177.176
+0 3 2 3761 2 1318970832
+- 0 0
+202.67.8.210
+0 366 322 121426 2 1319028525
+- 0 0
+184.106.134.19
+0 1 1 16671 1 1318802454
+- 0 0
+110.136.178.254
+0 6529 6451 673708 13 1319197881
+- 0 0
+199.59.149.36
+0 6 1 0 1 1318799880
+- 0 0
+75.101.193.43
+0 9 9 32358 1 1318969381
+- 0 0
+199.59.149.164
+0 8 7 17275 3 1318969227
+- 0 0
+184.72.46.206
+0 1 1 0 1 1318799881
+- 0 0
+184.72.46.207
+0 1 1 0 1 1318969070
+- 0 0
+89.151.116.52
+0 1 1 16671 1 1318799882
+- 0 0
+89.151.116.53
+0 2 1 17213 2 1318965753
+- 0 0
+50.18.121.40
+0 2 2 0 2 1318969069
+- 0 0
+125.167.251.67
+0 36 35 71731 1 1319032895
+- 0 0
+184.72.46.215
+0 1 1 0 1 1318965753
+- 0 0
+50.18.121.55
+0 1 1 0 1 1318965753
+- 0 0
+111.95.165.252
+0 2 1 1748 1 1318799803
+- 0 0
+118.137.236.116
+0 26 26 63312 1 1318806430
+- 0 0
+50.18.121.64
+0 1 0 0 1 1318799765
+- 0 0
+110.139.133.106
+0 16064 14115 10648452 32 1318918464
+- 0 0
+125.160.92.84
+0 24 24 65096 2 1319123502
+- 0 0
+107.20.124.116
+0 5 5 19531 1 1318969472
+- 0 0
+61.94.86.236
+0 2 1 1748 1 1318800114
+- 0 0
+206.53.152.166
+0 19 17 28667 1 1318776234
+- 0 0
+173.192.79.101
+0 1 1 16671 1 1318969070
+- 0 0
+206.53.152.171
+0 24 24 69712 2 1318800294
+- 0 0
+182.8.27.96
+0 134 129 582812 2 1318776430
+- 0 0
+107.20.37.79
+0 1 1 3365 1 1318970832
+- 0 0
+110.139.133.178
+0 43 40 77114 1 1319026293
+- 0 0
+110.139.120.113
+0 586 559 122513 3 1318923345
+- 0 0
+74.125.42.82
+0 1 0 0 1 1318800612
+- 0 0
+74.125.42.85
+0 1 1 0 1 1318800613
+- 0 0
+174.36.87.198
+0 2 2 3419 1 1318970127
+- 0 0
+184.72.47.46
+0 1 0 0 1 1318799764
+- 0 0
+66.228.54.132
+0 1 1 16671 1 1318965753
+- 0 0
+125.167.246.105
+0 38 36 70254 1 1318858093
+- 0 0
+89.151.99.92
+0 1 0 542 1 1318799874
+- 0 0
+50.16.51.20
+0 1 1 0 1 1318969101
+- 0 0
+216.52.242.14
+0 5 4 25921 1 1318799903
+- 0 0
+66.249.69.105
+0 24 23 71507 4 1318889444
+- 0 0
+70.91.204.161
+0 1 1 3365 1 1318985216
+- 0 0
+180.76.5.7
+0 1 0 20 1 1319139078
+- 0 0
+110.139.31.82
+0 33 31 67112 1 1318935924
+- 0 0
+204.236.152.146
+0 1 0 542 1 1318799764
+- 0 0
+46.20.47.43
+0 1 0 342 1 1318799771
+- 0 0
+67.195.115.39
+0 31 22 23961 5 1318970915
+- 0 0
+64.246.187.42
+0 1 0 534 1 1318737649
+- 0 0
+75.101.147.15
+0 1 1 0 1 1318970045
+- 0 0
+141.0.9.142
+0 22 22 59005 1 1318796534
+- 0 0
+95.108.151.244
+0 36 22 50160 6 1319106870
+- 0 0
+125.167.240.15
+0 2587 2187 2726657 2 1319038429
+- 0 0
+110.139.31.122
+0 1370 1173 972024 1 1319196986
+- 0 0
+157.55.17.193
+0 2 1 376 1 1318743582
+- 0 0
+74.112.131.133
+0 2 1 576 1 1318799795
+- 0 0
+223.255.229.75
+0 31 30 63892 1 1319032647
+- 0 0
+95.108.150.235
+0 9 9 20292 3 1319122376
+- 0 0
+74.125.112.85
+0 1 0 0 1 1318800696
+- 0 0
+125.167.240.50
+0 199 177 19794 2 1318851214
+- 0 0
+50.17.62.112
+0 4 4 12550 0 0
+- 0 0
+125.167.242.120
+0 235 171 45616 1 1318940838
+- 0 0
+141.0.8.199
+0 22 22 59005 1 1318796481
+- 0 0
+74.125.114.80
+0 1 0 0 1 1318800691
+- 0 0
+74.125.114.81
+0 1 1 0 1 1318800655
+- 0 0
+74.125.114.82
+0 2 1 0 1 1318800666
+- 0 0
+74.125.114.89
+0 1 1 0 1 1318799884
+- 0 0
+184.72.46.156
+0 1 1 16671 1 1318969069
+- 0 0
+69.171.229.244
+0 1 1 4882 0 0
+- 0 0
+69.171.229.245
+0 2 2 5365 0 0
+- 0 0
+141.0.10.44
+0 22 22 58552 1 1318775873
+- 0 0
+69.171.229.246
+0 1 1 1660 0 0
+- 0 0
+69.171.229.247
+0 2 2 7207 1 1319030985
+- 0 0
+69.171.229.248
+0 1 1 1454 0 0
+- 0 0
+69.171.229.249
+0 1 1 1660 0 0
+- 0 0
+180.76.5.10
+0 1 1 54 0 0
+- 0 0
+184.73.108.194
+0 2 2 16671 1 1318799889
+- 0 0
+180.76.5.16
+0 1 1 54 0 0
+- 0 0
+212.239.17.140
+0 13 13 54855 1 1318969376
+- 0 0
+64.12.237.15
+0 7 7 35763 1 1318969174
+- 0 0
+180.76.5.25
+0 2 2 108 0 0
+- 0 0
+180.76.5.26
+0 1 1 3365 1 1319413027
+- 0 0
+180.76.5.107
+0 1 1 3365 1 1319410787
+- 0 0
+216.56.160.102
+0 2 2 6730 1 1318969249
+- 0 0
+50.17.115.60
+0 1 1 16671 1 1318969365
+- 0 0
+180.76.5.113
+0 1 0 20 1 1319525140
+- 0 0
+107.20.104.53
+0 2 1 396 1 1318801490
+- 0 0
+66.220.149.248
+0 1 1 1660 0 0
+- 0 0
+180.76.5.54
+0 2 2 2718 2 1319525141
+- 0 0
+180.76.5.57
+0 2 1 396 1 1319117495
+- 0 0
+180.76.5.59
+0 1 0 342 1 1319090518
+- 0 0
+180.76.5.60
+0 1 1 3365 1 1319061374
+- 0 0
+180.76.5.64
+0 2 2 4601 1 1319608120
+- 0 0
+180.76.5.66
+0 1 1 3365 1 1318905030
+- 0 0
+180.76.5.141
+0 1 1 3365 1 1319069018
+- 0 0
+125.164.92.192
+0 215 176 144120 5 1319045497
+- 0 0
+110.139.129.195
+0 1262 1208 673495 4 1319036300
+- 0 0
+223.255.226.221
+0 30 29 63775 1 1319109229
+- 0 0
+180.76.5.159
+0 1 1 3365 1 1319503321
+- 0 0
+184.106.83.185
+0 1 1 16671 1 1318969073
+- 0 0
+125.167.240.165
+0 62 61 65039 1 1319023104
+- 0 0
+110.136.196.136
+0 150 139 136010 2 1318801135
+- 0 0
+125.167.240.168
+0 1991 1810 1239752 1 1318862691
+- 0 0
+50.17.88.207
+0 7 6 50013 2 1318969258
+- 0 0
+180.76.5.167
+0 1 1 54 0 0
+- 0 0
+114.4.21.206
+0 42 21 86304 1 1318766933
+- 0 0
+180.76.5.96
+0 1 1 54 0 0
+- 0 0
+69.63.181.250
+0 1 1 3365 1 1318851296
+- 0 0
+180.76.5.173
+0 1 1 3365 1 1319347922
+- 0 0
+180.76.5.175
+0 1 1 4053 0 0
+- 0 0
+114.4.21.212
+0 30 21 73547 1 1318764093
+- 0 0
+207.46.195.209
+0 12 11 32072 1 1318991112
+- 0 0
+180.76.5.180
+0 1 1 585 0 0
+- 0 0
+180.76.5.187
+0 1 1 3365 1 1319329815
+- 0 0
+110.139.30.75
+0 1032 905 99362 2 1319207094
+- 0 0
+180.76.5.190
+0 1 1 54 0 0
+- 0 0
+180.76.5.196
+0 2 1 1590 2 1319319816
+- 0 0
+157.55.39.90
+0 7 3 5823 1 1319166307
+- 0 0
+65.52.6.105
+0 1 0 342 1 1318799984
+- 0 0
+# End Of Table - sites (monthly)
+# -sites- (daily)
+180.76.5.190
+0 1 1 54 0 0
+- 0 0
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 563
+http://demo.borneoclimate.info/index.php/messages/folder/inbox/10
+1 18
+http://www.google.com/m
+0 1
+http://demo.borneoclimate.info/media/swf/open-flash-chart.swf
+1 15
+http://demo.borneoclimate.info/index.php/phonebook/group
+1 143
+http://demo.borneoclimate.info/media/css/front/layout.css
+1 182
+http://demo.borneoclimate.info/index.php/messages/conversation/folder/sentitems/+6285252988288/
+1 10
+http://demo.borneoclimate.info/index.php/messages/conversation/folder/inbox/+6282156727102/
+1 77
+http://demo.borneoclimate.info/index.php/messages/folder/outbox
+1 76
+http://demo.borneoclimate.info/index.php/
+1 8
+http://demo.borneoclimate.info/media/js/tiny_mce/themes/advanced/skins/default/ui.css
+1 2
+http://demo.borneoclimate.info/index.php/admin
+1 1206
+http://demo.borneoclimate.info/media/css/jquery-ui/ui.theme.css
+1 67
+http://demo.borneoclimate.info/index.php/messages/folder/inbox
+1 1913
+http://demo.borneoclimate.info/index.php/posts
+1 63
+http://demo.borneoclimate.info/index.php/settings/general
+1 21
+http://www.google.co.id/search
+0 2
+http://demo.borneoclimate.info/media/css/jquery-ui/ui.all.css
+1 96
+http://demo.borneoclimate.info/index.php/usermanager
+1 120
+http://demo.borneoclimate.info/index.php/settings/profile
+1 4
+http://demo.borneoclimate.info/index.php/messages/search/results/all
+1 90
+http://demo.borneoclimate.info/index.php/messages/conversation/folder/sentitems/+6281310910601/
+1 24
+http://demo.borneoclimate.info/index.php/messages/conversation/folder/inbox/+6285252988288/
+1 1
+http://demo.borneoclimate.info/index.php/messages/conversation/folder/sentitems/085752719633/
+1 1
+http://demo.borneoclimate.info/index.php/messages/conversation/folder/inbox/+6285249166088/
+1 1
+http://borneoclimate.info
+0 1
+http://demo.borneoclimate.info/index.php/messages/folder/inbox/
+1 11
+http://demo.borneoclimate.info/index.php/settings/password
+1 14
+http://demo.borneoclimate.info/index.php/messages/conversation/my_folder/inbox/+628562555294/5
+1 1
+http://demo.borneoclimate.info/index.php/messages/conversation/my_folder/inbox/+628562555294/6
+1 79
+http://demo.borneoclimate.info/index.php/messages/conversation/folder/inbox/+6285752719633/
+1 2
+http://whois.domaintools.com/borneoclimate.info
+0 1
+http://www.google.com/url
+0 1
+http://www.facebook.com/l.php
+0 6
+http://demo.borneoclimate.info/index.php/messages/conversation/folder/sentitems/+6281347298887/
+1 2
+http://demo.borneoclimate.info/media/css/base.css
+1 24
+http://demo.borneoclimate.info/index.php/messages/conversation/folder/inbox/+62816223167/
+1 4
+http://demo.borneoclimate.info/index.php/messages/conversation/folder/inbox/+6285249568299/
+1 3
+http://demo.borneoclimate.info/index.php/auth/register
+1 13
+http://t.co/AqeOAx6q
+0 2
+http://twitter.com/
+0 4
+http://demo.borneoclimate.info/index.php/phonebook/group/3
+1 1
+http://demo.borneoclimate.info/index.php/phonebook/group/4
+1 3
+http://demo.borneoclimate.info/index.php/messages/folder/sentitems
+1 93
+http://demo.borneoclimate.info/index.php/phonebook/group/10
+1 3
+http://demo.borneoclimate.info/index.php/phonebook/group/11
+1 71
+http://demo.borneoclimate.info/index.php/phonebook/group/15
+1 1
+http://demo.borneoclimate.info/index.php
+1 762
+http://demo.borneoclimate.info/index.php/phonebook/group/22
+1 5
+http://demo.borneoclimate.info/index.php/posts/categories
+1 84
+http://demo.borneoclimate.info/index.php/messages/conversation/folder/inbox/+6285349457508/
+1 1
+http://demo.borneoclimate.info/index.php/messages/conversation/folder/inbox/+6282156160810/
+1 4
+http://www.google.co.id/url
+0 8
+http://demo.borneoclimate.info/index.php/messages/conversation/folder/inbox/+6285348016605/
+1 1
+http://demo.borneoclimate.info/index.php/login
+1 588
+http://demo.borneoclimate.info/index.php/auth/forgot_password
+1 6
+http://demo.borneoclimate.info/index.php/messages/conversation/folder/phonebook/+6285346568606
+1 1
+http://demo.borneoclimate.info/index.php/phonebook/index/10
+1 86
+http://demo.borneoclimate.info/index.php/phonebook/index/20
+1 25
+http://demo.borneoclimate.info/index.php/messages/conversation/folder/sentitems/+6281562555294/
+1 5
+http://demo.borneoclimate.info/index.php/posts/add
+1 207
+http://demo.borneoclimate.info/index.php/messages/conversation/folder/inbox/+6285251230216/
+1 1
+http://demo.borneoclimate.info/index.php/messages/conversation/folder/inbox/+6285248709377/
+1 24
+http://www.google.com/m/search
+0 6
+http://demo.borneoclimate.info/index.php/messages/conversation/folder/inbox/+6285349949318/
+1 1
+http://demo.borneoclimate.info/
+1 25133
+http://demo.borneoclimate.info/index.php/phonebook
+1 998
+http://t.co/qWNTt83D
+0 2
+http://demo.borneoclimate.info/index.php/messages/conversation/folder/inbox/+628562555294/
+1 34
+http://demo.borneoclimate.info/index.php/settings/personal
+1 127
+http://demo.borneoclimate.info/index.php/messages/conversation/folder/inbox/+6281269298362/
+1 1
+http://demo.borneoclimate.info/index.php/messages/my_folder/inbox/5
+1 15
+http://demo.borneoclimate.info/index.php/messages/my_folder/inbox/6
+1 306
+http://demo.borneoclimate.info/index.php/messages/my_folder/inbox/7
+1 4
+http://demo.borneoclimate.info/index.php/messages/conversation/folder/inbox/+6281914942468/
+1 23
+# End Of Table - referrers
+# -agents- 
+SAMSUNG-SGH-E250/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0 (compatible; Googlebot-
+0 1
+Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)
+0 20
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.2.3) Gecko/20100423 Ubuntu/10.04 (lucid) Firefox/3.6.3
+0 2652
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.50 (KHTML, like Gecko) Version/5.1 Safari/534.50
+0 38
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en; rv:1.9.0.13) Gecko/2009073022 Firefox/3.5.2 (.NET CLR 3.5.30729) SurveyBot/2.3 (
+0 1
+Mozilla/5.0 (compatible; ScribdReader/1.0; +http://www.float.com)
+0 2
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.30 (KHTML, like Gecko) Ubuntu/10.04 Chromium/12.0.742.112 Chrome/12.0.742.112 S
+0 169
+AppEngine-Google; (+http://code.google.com/appengine; appid: s~unshortenme)
+0 6
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 45
+RockMeltEmbedService
+0 1
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/14.0.835.202 Safari/535.1
+0 2323
+Summify (Summify/1.0.1; +http://summify.com)
+0 1
+Java/1.6.0_07
+0 1
+Mozilla/5.0 (X11; Linux i686; rv:6.0.2) Gecko/20100101 Firefox/6.0.2
+0 4809
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:2.0) Gecko/20100101 Firefox/4.0
+0 36
+Mozilla/5.0 (Linux; U; Android 2.2.1; in-id; GT-S5660 Build/FROYO) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile S
+0 144
+Baiduspider+(+http://www.baidu.com/search/spider.htm)
+0 8
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.1.15082/26.984; U; id) Presto/2.8.119 Version/10.54
+0 66
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) BlankOn/7.0 Chromium/14.0.786.0 Chrome/14.0.786.0 Safari/
+0 43
+UnwindFetchor/1.0 (+http://www.gnip.com/)
+0 8
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.2.11) Gecko/20101013 Ubuntu/9.04 (jaunty) Firefox/3.6.11
+0 2218
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2;  SLCC1;  .NET CLR 1.1.4322;  .NET CLR 2.0.40607;  .NET CLR 3.0.04506.648)
+0 12
+Jakarta Commons-HttpClient/3.1
+0 7
+urlresolver
+0 2
+Mozilla/5.0 (compatible; TweetmemeBot/2.11; +http://tweetmeme.com/)
+0 4
+JS-Kit URL Resolver, http://js-kit.com/
+0 1
+Firefox
+0 1
+Mozilla/5.0 (X11; U; Linux x86_64; en-US) AppleWebKit/534.13 (KHTML, like Gecko) Chrome/9.0.597.107 Safari/534.13
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 6.1; ru; rv:1.9.2.3) Gecko/20100401 Firefox/4.0 (.NET CLR 3.5.30729)
+0 9
+msnbot/2.0b (+http://search.msn.com/msnbot.htm)._
+0 7
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/14.0.835.186 Safari/535.1
+0 54
+Mozilla/5.0 (BlackBerry; U; BlackBerry 9800; en) AppleWebKit/534.1+ (KHTML, like Gecko) Version/6.0.0.246 Mobile Safari/534.1
+0 10
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 23
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 2
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_7; en-us) AppleWebKit/533.21.1 (KHTML, like Gecko) Version/5.0.5 Safari/533.21
+0 96
+Mozilla/5.0 (compatible
+0 1
+Twitterbot/0.1
+0 8
+Mozilla/5.0 (Windows; U; Windows NT 6.1; ru; rv:1.9.2b5) Gecko/20091204 Firefox/3.6b5
+0 13
+msnbot/2.0b
+0 1
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/14.0.835.202 Safari/535.1
+0 2300
+Mozilla/5.0 (Windows NT 6.1; rv:6.0.2) Gecko/20100101 Firefox/6.0.2
+0 3481
+Mozilla/5.0 (Windows NT 5.1; rv:7.0.1) Gecko/20100101 Firefox/7.0.1
+0 2943
+Mozilla/5.0 (compatible; Butterfly/1.0; +http://labs.topsy.com/butterfly/) Gecko/2009032608 Firefox/3.0.8
+0 2
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en-US; rv:1.9.2) Gecko/20100115 Firefox/3.6 (FlipboardProxy/1.1; +http://flip
+0 6
+Mozilla/5.0 (Windows NT 6.1; rv:5.0) Gecko/20100101 Firefox/5.0
+0 2
+Mozilla/5.0 (BlackBerry; U; BlackBerry 9780; id) AppleWebKit/534.8+ (KHTML, like Gecko) Version/6.0.0.546 Mobile Safari/534.8
+0 33
+curl/7.19.7 (i486-pc-linux-gnu) libcurl/7.19.7 OpenSSL/0.9.8k zlib/1.2.3.3 libidn/1.15
+0 51
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.1.7) Gecko/20091221 Firefox/3.5.7
+0 504
+Mozilla/5.0 (X11; Linux i686; rv:5.0) Gecko/20100101 Firefox/5.0
+0 1308
+Mozilla/5.0 (compatible; TweetedTimes Bot/1.0; +http://tweetedtimes.com)
+0 1
+Mozilla/5.0 (Windows NT 5.1; rv:5.0) Gecko/20100101 Firefox/5.0
+0 2845
+Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/5.0.342.9 Safari/533.2
+0 5734
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 2
+facebookexternalhit/1.0 (+http://www.facebook.com/externalhit_uatext.php)
+0 9
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152
+0 134
+LinkedInBot/1.0 (compatible; Mozilla/5.0; Jakarta Commons-HttpClient/3.1 +http://www.linkedin.com)
+0 5
+InAGist URL Resolver (http://inagist.com)
+0 1
+Mozilla/5.0 (Windows NT 6.1; rv:2.0.1) Gecko/20100101 Firefox/4.0.1
+0 222
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0)
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/14.0.835.202 Safari/535.1
+0 28
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.220 Safari/535.1
+0 23
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.2.23) Gecko/20110920 Firefox/3.6.23
+0 568
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en-US; rv:1.9.2) Gecko/20100115 Firefox/3.6 (FlipboardProxy/0.0.5; +http://fl
+0 5
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.2.12) Gecko/20101027 Linux Mint/8 (Helena) Firefox/3.6.12
+0 229
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/533.21.1 (KHTML, like Gecko) Version/5.0.5 Safari/533.21
+0 93
+MetaURI API/2.0 +metauri.com
+0 9
+Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)
+0 31
+User-Agent:Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; en-us) AppleWebKit/533.18.1
+0 2
+Mozilla/5.0 (Linux; U; Android 2.1-update1; in-id; GT-I5503 Build/ERE27) AppleWebKit/530.17 (KHTML, like Gecko) Version/4.0 M
+0 72
+Twitterbot/1.0
+0 8
+# End Of Table - agents
+# -search strings- 
+http://borneoclimate.info/
+1
+borneoclimate.info
+3
+www.borneoclimate.info
+4
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

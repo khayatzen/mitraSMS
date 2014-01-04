@@ -1,0 +1,93 @@
+/*======== Login Area ==========-*/
+#login-area{
+    width:100%;
+    font-size:16px;
+    margin:20px 0 20px 0;
+}
+#login-area input[type=text],input[type=password]{
+    height:30px;
+    width:230px;
+    padding:3px;
+    font-size:16px;
+}
+#login-area .login-form-container{
+    float:left;
+    width:47%;
+    border:1px solid #CCC;
+    -webkit-box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 4px;
+    -moz-box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 4px;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 4px;
+}
+
+#login-area .login-form-container .login-title{
+    padding:3px 15px;
+    font-size:18px;
+    color:#fff;
+    background: #25325F; /* Show a solid color for older browsers */
+    background: -moz-linear-gradient(#25325F, #4E639C);
+    background: -o-linear-gradient(#25325F, #4E639C);
+    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#25325F), to(#4E639C)); /* older webkit syntax */
+    background: -webkit-linear-gradient(#25325F, #4E639C);    
+}
+#login-area .login-form-container .login-content{
+    padding:10px;    
+}
+#login-area .register-form-container{
+    float:right;
+    display:inline;
+    width:50%;
+    border:1px solid #CCC;  
+    -webkit-box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 4px;
+    -moz-box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 4px;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 4px;
+}
+#login-area .register-form-container .register-title{
+    padding:3px 15px;
+    font-size:18px;
+    color:#fff;
+    background: #25325F; /* Show a solid color for older browsers */
+    background: -moz-linear-gradient(#25325F, #4E639C);
+    background: -o-linear-gradient(#25325F, #4E639C);
+    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#25325F), to(#4E639C)); /* older webkit syntax */
+    background: -webkit-linear-gradient(#25325F, #4E639C);    
+}
+#login-area .register-form-container .register-content{
+    padding:10px;    
+}
+
+#auth-container{
+    font-size:16px;
+    margin:20px auto 20px auto;
+    border:1px solid #CCC;
+    -webkit-box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 4px;
+    -moz-box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 4px;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 4px;
+    width:70%;
+}
+#auth-container input[type=text],input[type=password]{
+    height:30px;
+    width:230px;
+    padding:3px;
+    font-size:16px;
+}
+#auth-container .auth-title{
+    padding:3px 15px;
+    font-size:18px;
+    color:#fff;
+/*    background: #25325F;  Show a solid color for older browsers 
+    background: -moz-linear-gradient(#25325F, #4E639C);
+    background: -o-linear-gradient(#25325F, #4E639C);
+    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#25325F), to(#4E639C));  older webkit syntax 
+    background: -webkit-linear-gradient(#25325F, #4E639C);    */
+    
+    background: -moz-linear-gradient(#1982DC, #156EBC);
+    background: -o-linear-gradient(#1982DC, #156EBC);
+    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#1982DC), to(#156EBC)); /* older webkit syntax */
+    background: -webkit-linear-gradient(#1982DC, #156EBC);
+}
+#auth-container .auth-content{
+    padding:10px;    
+}
+#auth-container .auth-description{
+    padding:10px 0 10px 0;    
+}

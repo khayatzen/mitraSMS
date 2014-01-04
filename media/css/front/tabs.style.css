@@ -1,0 +1,50 @@
+#tabs {
+font-size: 90%;
+margin: 20px 0;
+}
+#tabs ul.menutab{
+float: right;
+background: #E3FEFA;
+width: 600px;
+padding-top: 4px;
+list-style: none;
+border-bottom: 1px solid #333;
+}
+#tabs li {
+margin-left: 8px;
+list-style: none;
+}
+* html #tabs li {
+display: inline; /* ie6 double float margin bug */
+}
+#tabs li,
+#tabs li a {
+float: left;
+}
+#tabs ul li a {
+text-decoration: none;
+color: #fff;
+font-weight: bold;
+outline: none;
+}
+#tabs ul li.active {
+background: #CEE1EF url(img/nav-right.gif) no-repeat right top;
+}
+#tabs ul li.active a {
+background: url(img/nav-left.gif) no-repeat left top;
+color: #333333;
+}
+#tabs .divtab {
+background: #CEE1EF;
+clear: both;
+padding: 20px;
+min-height: 200px;
+}
+#tabs div h3 {
+text-transform: uppercase;
+margin-bottom: 10px;
+letter-spacing: 1px;
+}
+#tabs div p {
+line-height: 150%;
+}

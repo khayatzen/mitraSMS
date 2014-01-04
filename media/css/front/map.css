@@ -1,0 +1,176 @@
+/*
+* Berkas : map.css
+* Pengaturan tata letak dan properti peta termasuk navigasinya
+* Regard, ---
+*/
+#mainMapFrontpage{  
+    height:320px;  
+    width:inherit;
+    padding:0;
+    position:relative; 
+    background:url(images/ajax-loader.gif) no-repeat center center;
+    
+    -webkit-box-shadow: rgba(0, 0, 0, 0.6) 0px 1px 4px;
+    -moz-box-shadow: rgba(0, 0, 0, 0.6) 0px 1px 4px;
+    box-shadow: rgba(0, 0, 0, 0.6) 0px 1px 4px;
+}
+/* Background Map Legend */
+#mainMapFrontpageBG{
+    position:absolute;
+    z-index:1025;    
+    right:30px;
+    bottom:20px;
+    width:30%;
+    min-width:200px;
+    height:50%;
+    padding:10px;
+    border:2px solid #DDF0B8;
+    
+    background-color:#FEFFE3;
+    filter: alpha(opacity=80); /* internet explorer */
+    -khtml-opacity: 0.8;      /* khtml, old safari */
+    -moz-opacity: 0.8;       /* mozilla, netscape */
+    opacity: 0.8;           /* fx, safari, opera */
+    
+    -webkit-box-shadow: rgba(0, 0, 0, 0.5) 2px 2px 5px;
+    -moz-box-shadow: rgba(0, 0, 0, 0.5) 2px 2px 5px;
+    box-shadow: rgba(0, 0, 0, 0.5) 2px 2px 5px;
+    
+    -moz-border-radius:5px;
+    -khtml-border-radius:5px;
+    -webkit-border-radius:5px;
+    border-radius:5px;
+}
+#mainMapLegend{
+    position:absolute;
+    z-index:1027;    
+    right:30px;
+    bottom:20px;
+    width:30%;
+    min-width:200px;
+    height:50%;
+    padding:10px;
+    background-color: none;
+}
+#mainMapLegend h3{    
+    border-bottom:1px solid #9AB485;    
+    margin-bottom:5px;
+    font-size:1.2em;
+    font-weight:bold;
+    padding:10px 0;
+    margin:0;
+}
+#mainMapLegend .village_legend{
+    padding-left:33px;
+    background:url(images/legend_village.png) no-repeat left;
+    font-size:0.9em;
+    font-weight: normal;
+}
+#mainMapLegend .moratorium_legend{
+    padding-left:33px;
+    background:url(images/legend_moratorium.png) no-repeat left;
+    font-size:0.9em;
+    font-weight: normal;
+}
+
+/*##### Peta SMS ####*/
+#mapPanel{
+    float:left;
+    width:20%;
+    height:520px;
+    border-right:1px solid #e2e2e2;
+    display:block;
+    padding:0;
+    vertical-align: top;
+    background-color: #DEDEDE;
+    -webkit-box-shadow: rgba(0, 0, 0, 0.6) 2px 2px 2px;
+    -moz-box-shadow: rgba(0, 0, 0, 0.6) 2px 2px 2px;
+    box-shadow: rgba(0, 0, 0, 0.6) 2px 2px 2px;
+    z-index:100;
+}
+#mainMap{  
+    float:right; 
+    display:inline;
+    height:100%;  
+    width:100%;
+    padding:0;
+    position:relative;
+    z-index:0;
+    background:url(images/ajax-loader.gif) no-repeat center center;
+}
+#panelContent{
+    float:left;
+    display:inline; 
+    height:520px;   
+    padding:0;
+    width:95%;    
+}
+#show_hide_panel{
+    float:right;
+    height:520px;
+    width:10px;
+    background-color:#DEDEDE;   
+    vertical-align: top;
+    margin:0;
+    padding:0;
+    position:relative;
+/*    border-right:1px solid #B9B9B9;*/
+}
+#show_hide_panel span{
+    min-width:10px;
+    height:10px;
+    display:block;  
+    margin:220px auto;    
+}
+.show_panel{
+    background-image:url('images/arrow-left.png');
+}
+.hide_panel{
+    background-image:url('images/arrow-right.png');
+}
+.panel_active{
+    background-position:left top;    
+}
+.panel_hover{
+    background-position:left bottom;    
+}
+#show_hide_panel:hover{
+    background-color:#1982DB;
+    background-image:url('images/arrow-left.png');
+    background-repeat: no-repeat;
+    background-position:10px 0px;
+/*    border-right:1px solid #41A2ED;*/
+}
+
+#mapNav{
+    padding:10px;
+}
+#mapNav ul.map_legenda{
+    list-style: none;
+    display:block; 
+    margin:0;
+    padding:0;
+    z-index:1000;
+}
+#mapNav ul.map_legenda li{
+    padding:0;    
+    border-left:1px solid #E2E2E2;
+}
+#mapNav input[type='text']{
+    height:20px;
+    width:150px;
+    padding:2px;
+}
+#village_list_container{
+    border:1px solid #CCCCCC;
+    max-height:300px;
+    overflow: hidden;
+}
+#village_pagination{
+    max-height:50px;
+    margin-top:5px;
+    border:1px solid #CCCCCC;
+    padding:2px 5px;
+    text-align: center;
+}
+#village_pagination a{margin:2px 6px;}

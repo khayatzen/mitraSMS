@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+audio[controls],
+video {
+	display: block;
+}
+/* always define a default */
+audio {
+	width: 328px;
+	height: 28px;
+}
+video {
+	width: 510px;
+	height: 280px;
+}
+body { 
+    font: 100.1% arial, helvetica, sans-serif;
+	max-width: 1200px;
+	width: 800px;
+	min-width: 60em;
+	margin: auto;
+    color: #000;
+	background: #fff;
+}
+
+code {
+	display: block;
+	margin: 0 0 10px;
+	white-space: pre;
+}
+.demo-themeswitcher {
+	float: right;
+}
+p {
+	margin: 10px 0;
+}

@@ -1,0 +1,105 @@
+/* 
+    Document   : menu
+    Created on : Jul 30, 2011, 3:34:31 AM
+    Author     : infest
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+#mainmenu-container{
+    width:70%;
+    float:right;    
+}
+
+#mainmenu ul {
+	font-size: 12px;
+	list-style: none;
+	margin: 0;
+	padding-left: 0;
+        font-weight:bold;
+}
+#mainmenu li {
+	float: right;
+	position: relative;
+}
+#mainmenu a {
+	color: #fff;
+	display: block;
+	line-height: 3.333em;
+	padding: 0 1.0em;
+	text-decoration: none;
+}
+#mainmenu ul ul {
+	-moz-box-shadow: 0px 3px 3px rgba(0,0,0,0.3);
+	-webkit-box-shadow: 0px 3px 3px rgba(0,0,0,0.3);
+	box-shadow: 0px 3px 3px rgba(0,0,0,0.3);
+	display: none;
+	float: left;
+	margin: 0;
+	position: absolute;
+	top: 3.233em;
+	left: 0;
+	width: 188px;
+	z-index: 99999;
+}
+#mainmenu ul ul ul {
+	left: 100%;
+	top: 0;
+}
+#mainmenu ul ul a {
+	background: #E6E6E6;/*#f9f9f9;*/
+	border-bottom: 1px dotted #ccc;
+	color: #444;
+	font-size: 13px;
+	font-weight: normal;
+	height: auto;
+	line-height: 1.4em;
+	padding: 10px 14px;
+	width: 168px;
+}
+#mainmenu li:hover > a,
+#mainmenu ul ul :hover > a,
+#mainmenu a:focus {
+	background: #222; /* Show a solid color for older browsers */
+        background: -moz-linear-gradient(#343434, #0a0a0a);
+        background: -o-linear-gradient(#343434, #0a0a0a);
+        background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#343434), to(#0a0a0a)); /* older webkit syntax */
+        background: -webkit-linear-gradient(#343434, #0a0a0a);
+        color:#e2e2e2;
+}
+#mainmenu ul ul :hover > a{
+       border-bottom: 1px solid #5A5A5A;
+}
+#mainmenu li:hover > a,
+#mainmenu a:focus {
+	background: #f9f9f9; /* Show a solid color for older browsers */
+	background: -moz-linear-gradient(#f9f9f9, #e5e5e5);
+	background: -o-linear-gradient(#f9f9f9, #e5e5e5);
+	background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#f9f9f9), to(#e5e5e5)); /* Older webkit syntax */
+	background: -webkit-linear-gradient(#f9f9f9, #e5e5e5);
+	color: #373737;
+}
+#mainmenu ul li:hover > ul {
+	display: block;
+}
+#mainmenu .current_page_item > a,
+#mainmenu .current_page_ancestor > a {
+	font-weight: bold;
+}
+
+/* User menu*/
+#usermenu-container{
+    float:right;
+    position: relative;
+    padding: 0 1.2125em;
+    color:#CCCCCC;
+    padding: 10px 10px;
+}
+#usermenu-container a{color:#FFF5B7;}
+#usermenu-container a:hover{color:#fff;text-decoration:underline;}
+

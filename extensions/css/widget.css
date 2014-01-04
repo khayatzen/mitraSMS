@@ -1,0 +1,9 @@
+body{
+font:12px "Lucida Grande", Arial, Verdana, Tahoma;
+}
+#sms-container{
+width:100%;
+}
+#sms-container li{padding:3px;margin:2px;}
+#sms-container .smstitle{margin:0;padding:3px;color:#7D8489;font-size:10px;}
+#sms-container .smsbody{padding:3px;margin:0 0 3px 0;}

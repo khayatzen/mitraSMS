@@ -1,0 +1,41 @@
+<html>
+<head>
+<title>Widget with JSON</title>
+<script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
+<!--
+<script type="text/javascript" src="http://smsburuhmigran.infest.or.id/extensions/js/jquery.crossdomain.js"></script>
+-->
+<script type="text/javascript">
+//var sms_server_URL = 'http://smsburuhmigran.infest.or.id/extensions/widget.sms.php?callback=?';
+var sms_server_URL = 'http://smsburuhmigran.infest.or.id/index.php/microblog/widget/callback/?';
+function getSMS(){
+$.getJSON(sms_server_URL, function(data){
+alert(data);
+    $.each(data, function(key, val) {
+				$("#response").append(val.UpdatedInDB+'<br/>');
+			});  
+  			
+          
+   });
+/*
+$.ajax({
+      url: sms_server_URL,
+      type: "POST",
+      dataType: "json",
+      success: function(msg){
+         alert(msg);
+			$.each(msg, function(key, val) {
+				$("#response").append(key+'<br/>');
+			});
+			//$("#response").html(data);
+      }
+   });
+*/
+}
+</script>
+</head>
+<body>
+<input type="button" value="GET JSON" onclick="getSMS()">
+<div id="response">Response :<br/></div>
+</body>
+</html>

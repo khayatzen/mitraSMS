@@ -1,0 +1,45 @@
+Sun 2011/02/20 16:23:03 gammu-smsd[6523]: No SMSD service configured, please set service to use in configuration file!
+Sun 2011/02/20 16:29:26 gammu-smsd[6613]: No SMSD service configured, please set service to use in configuration file!
+Sun 2011/02/20 16:34:31 : Starting GAMMU smsd
+Sun 2011/02/20 16:34:31 : PIN code is "1234"
+Sun 2011/02/20 16:34:31 : commtimeout=1, sendtimeout=10, receivefrequency=0, resetfrequency=0
+Sun 2011/02/20 16:34:31 : deliveryreport = no
+Sun 2011/02/20 16:34:31 : phoneid = MyPhone1
+Sun 2011/02/20 16:34:31 : Inbox is "/var/spool/gammu/inbox/" with format "unicode"
+Sun 2011/02/20 16:34:31 : Outbox is "/var/spool/gammu/outbox/" with transmission format "auto"
+Sun 2011/02/20 16:34:31 : Sent SMS moved to "/var/spool/gammu/sent/"
+Sun 2011/02/20 16:34:31 : SMS with errors moved to "/var/spool/gammu/error/"
+Sun 2011/02/20 16:34:31 : Starting communication
+Sun 2011/02/20 16:34:42 : Error at init connection (14)
+Sun 2011/02/20 16:34:42 : Terminating communication (14,250)
+Sun 2011/02/20 16:34:42 : Starting communication
+Sun 2011/02/20 16:34:52 : Error at init connection (14)
+Sun 2011/02/20 16:35:00 : Terminating communication
+Sun 2011/02/20 16:35:51 : Starting GAMMU smsd
+Sun 2011/02/20 16:35:51 : PIN code is "1234"
+Sun 2011/02/20 16:35:51 : commtimeout=1, sendtimeout=10, receivefrequency=0, resetfrequency=0
+Sun 2011/02/20 16:35:51 : deliveryreport = no
+Sun 2011/02/20 16:35:51 : phoneid = MyPhone1
+Sun 2011/02/20 16:35:51 : Error connecting to database: Access denied for user 'c1_khayat '@'localhost' (using password: YES)
+
+Sun 2011/02/20 16:35:51 : Initialisation failed, stopping Gammu smsd (27)
+Sun 2011/02/20 17:18:07 : Starting GAMMU smsd
+Sun 2011/02/20 17:18:07 : PIN code is "1234"
+Sun 2011/02/20 17:18:07 : commtimeout=1, sendtimeout=10, receivefrequency=0, resetfrequency=0
+Sun 2011/02/20 17:18:07 : deliveryreport = no
+Sun 2011/02/20 17:18:07 : phoneid = MyPhone1
+Sun 2011/02/20 17:18:07 : Error connecting to database: Access denied for user 'c1_khayat '@'localhost' (using password: YES)
+
+Sun 2011/02/20 17:18:07 : Initialisation failed, stopping Gammu smsd (27)
+Mon 2011/02/21 12:36:01 : Starting GAMMU smsd
+Mon 2011/02/21 12:36:01 : PIN code is "1234"
+Mon 2011/02/21 12:36:01 : commtimeout=1, sendtimeout=10, receivefrequency=0, resetfrequency=0
+Mon 2011/02/21 12:36:01 : deliveryreport = no
+Mon 2011/02/21 12:36:01 : phoneid = 
+Mon 2011/02/21 12:36:01 : Starting communication
+Mon 2011/02/21 12:44:13 : Starting GAMMU smsd
+Mon 2011/02/21 12:44:13 : PIN code is "1234"
+Mon 2011/02/21 12:44:13 : commtimeout=1, sendtimeout=10, receivefrequency=0, resetfrequency=0
+Mon 2011/02/21 12:44:13 : deliveryreport = no
+Mon 2011/02/21 12:44:13 : phoneid = 
+Mon 2011/02/21 12:44:13 : Starting communication

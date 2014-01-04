@@ -1,0 +1,47 @@
+#smsticker-container {
+    width:200px;
+    background:#7E0000;
+    padding:1px;
+    font-family:Verdana,Arial,Sans-Serif;
+    font-size:10px;
+    margin:0 auto;
+    -moz-border-radius:7px;
+    -webkit-border-radius:7px;
+    -khtml-border-radius:7px;
+    border-radius:7px;
+    color:#fff;
+}
+
+#smsticker-container a { text-decoration:none; }
+#smsticker-container img { border: 2px solid #FFFFFF; }
+
+#smsticker-container .title {
+    text-align:center;
+    font-size:14px;
+    font-weight:bold;
+    padding:5px;
+}
+
+.smsticker { 
+    width:inherit;
+    background:#fff;
+    margin-bottom:7px;
+    -moz-border-radius:7px;
+    -webkit-border-radius:7px;
+    -khtml-border-radius:7px;
+    border-radius:7px;
+    color:#0D1013;
+}
+#smsticker-container .smsticker ul{list-style:none;}
+.smsticker ul li{    
+    display:block;
+    padding:5px;
+    border-bottom:1px dashed #7E0000;
+    height:auto;
+}
+.smsticker ul li div{display:block;min-height:80px;}
+.smsticker .thumbnail { float:left; width:110px; }
+.smsticker .info { float:right; width:190px; }
+.smsticker .info span.cat { display: block; font-size:10px; color:#808080; }
+
+.clear { clear: both; }
